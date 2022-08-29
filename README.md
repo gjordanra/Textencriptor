@@ -1,4 +1,4 @@
-# Textencriptor
+# JS Simple Text Encriptor
 <b>The Requirements:</b></br>
 You are making a text encryptor. It should take multiple words and output a combined version, where each word is separated by a dollar sign $.
 For example, for the words "hello", "how", "are", "you", the output should be "$hello$how$are$you$".
